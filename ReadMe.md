@@ -32,4 +32,4 @@ HTML, CSS, JavaScript
 
 ## Credits
 
-- Project structure and code was part of udemy course of Jonas Schmedtmann - The Complete JavaScript Course 2024: From Zero to Expert!
+- Project structure and code was part of udemy course of Jonas Schmedtmann - The Complete JavaScript Course 2024: From Zero to Expert! I just tried to tweak it a little bit. I added all the countries, and expanding cards. However the cards are not expanding as I wanted.
