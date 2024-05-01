@@ -2,7 +2,7 @@
 
 ## Description
 
-This project focuses on asynchronous JavaScript, utilizing XMLHttpRequest to fetch country data from the REST Countries API and dynamically display it on a web page.
+This project focuses on asynchronous JavaScript, utilizing XMLHttpRequest to fetch country data from the REST Countries API (github api - https://restcountries.com/) and dynamically display it on a web page.
 
 ## Languages
 
@@ -27,7 +27,7 @@ HTML, CSS, JavaScript
 
 ## How it Works
 
-- The `script.js` file contains code that asynchronously fetches country data from the REST Countries API.
+- The `script.js` file contains code that asynchronously fetches country data from the REST Countries API (github api - https://restcountries.com/).
 - Upon receiving the data, it dynamically generates HTML markup for each country and inserts it into the DOM.
 
 ## Credits
